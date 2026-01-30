@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://tidal.com/track/77819919/u", // Music streaming URL
+        musicUrl: "https://image2url.com/r2/default/audio/1769746279398-8a7d4a39-8e91-4377-8767-d19970d73e5c.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
